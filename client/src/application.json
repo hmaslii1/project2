@@ -1,0 +1,14 @@
+{
+  "name": "project1",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "b89186ec",
+  "theme": "Anchor",
+  "id": "_blank",
+  "clientVersion": "6.1.0-dev",
+  "hidden": false,
+  "isBuiltInTemplate": false,
+  "disableSideMenu": false,
+  "offlineSupport": false,
+  "description": "",
+  "creatorId": "test2"
+}
